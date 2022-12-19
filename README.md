@@ -7,4 +7,4 @@ In addition, the methodology proposed by Koch (2021) to estimate a complexity in
 Finally, the estimation of an economic complexity index with subnational data is developed (in process). The database used was obtained from the Ministry of Foreign Trade and Tourism, which contains information on exports (HS6) by region of Peru.
 
 
-Note: the results have been validated, except for the sub-national indicator. Anyway, use with caution. Any suggestions for improvement can be sent to me at dffjs98@gmail.com.
+Note: the results have been validated, except for the subnational indicator. Anyway, use with caution. Any suggestions for improvement can be sent to me at dffjs98@gmail.com.
